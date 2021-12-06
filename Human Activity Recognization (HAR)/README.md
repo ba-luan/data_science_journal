@@ -1,1 +1,3 @@
-
+Human Activity Recognition Using Smartphones Data Set belongs to one of the first attempt edexperiments in this field. The data set was built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
+* More data set information can be found in this [link](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+* There are a lot of engineer feature involed in the experiment. For the simplicity, a few basic feature were used to cluster human activities, full code can be found [HERE](https://github.com/ba-luan/data_science_journal/blob/main/Human%20Activity%20Recognization%20(HAR)/main.ipynb)
