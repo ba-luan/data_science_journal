@@ -1,4 +1,4 @@
-Algorithmic high-speed trading systems are being implemented all markets, especially in the cryptocurrency market due to the trading operations happen 24/7 over the world without discontinuaty and it is the most computerized market. Investors are from any size from big institutions to individuals. This experiment tried test the performance of a deep learning model that can be used as a part in a trading system.
+Algorithmic high-speed trading systems are being implemented in all finacial markets, especially in the cryptocurrency market due to its trading operations happen 24/7 over the world without discontinuaty and it has been the most computerized market so far. Investors are from governments, big institutions to individuals. This experiment tried test the performance of a deep learning model that can be used as a part in a trading system.
 
 # To Recreate the Experiment
 1. Create an account on Binance exchange to access its API then get API key and security key.
@@ -41,7 +41,7 @@ The optimized model predicted trading signals for 4 cryptos in 2 labeling method
 - Fixed-n timestep and Max-value timestep
 
 # Conclusion
-The maximum thresholds achieved:
+Performance was evaluated by the accuracy and the maximum thresholds achieved:
 - 53.5% in fixed-2-minutes timestep (7% higher than random guess)
 - 22.5% in max-value of 2-5 minutes window (12.5% higher than random guess and with the maximum price increase)
 
