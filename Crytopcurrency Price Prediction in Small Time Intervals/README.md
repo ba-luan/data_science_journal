@@ -3,8 +3,8 @@ Algorithmic high-speed trading systems are being implemented in all finacial mar
 # To Recreate the Experiment
 1. Create an account on Binance exchange to access its API then get API key and security key.
 2. Assign API key and security key to their variables in binance_key.ipynb file.
-3. Run retrieve_data.ipynb file to down the historiral data.
-4. Run main_code.ipynb file to process data, construct, train, and test the model. Full code can be viewed [HERE](https://github.com/ba-luan/data_science_journal/blob/main/Crytopcurrency%20Price%20Prediction%20in%20Small%20Time%20Intervals/main_code.ipynb) 
+3. Run retrieve_data.ipynb file to down the historiral data.  [VIEW FULL CODE](https://github.com/ba-luan/data_science_journal/blob/main/Crytopcurrency%20Price%20Prediction%20in%20Small%20Time%20Intervals/retrieve_data.ipynb) 
+4. Run main_code.ipynb file to process data, construct, train, and test the model. [VIEW FULL CODE](https://github.com/ba-luan/data_science_journal/blob/main/Crytopcurrency%20Price%20Prediction%20in%20Small%20Time%20Intervals/main_code.ipynb) 
 
 # Overview
 ### Feature Engineer
